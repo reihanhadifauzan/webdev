@@ -1,0 +1,19 @@
+body {
+    background-color: #f7f7f7;
+  }
+  #dino {
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    bottom: 0px;
+  }
+  #cactus {
+    width: 20px;
+    height: 40px;
+    background-color: green;
+    position: absolute;
+    bottom: 0px;
+    right: -20px;
+  }
+  
